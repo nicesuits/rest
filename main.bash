@@ -1,0 +1,1 @@
+cockroach start --insecure --listen-addr=localhost --http-addr=:9000 --store=issues
